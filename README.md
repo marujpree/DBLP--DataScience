@@ -13,9 +13,9 @@ Group_Project_Proposal.pdf - Proposal document
 requirements.txt - all dependencies and packages needed for the attached notebooks 
 
 ## Team
-- Aqeel Somani, PSID: 2364462
-- Santiago Reyes, PSID: 2174589
-- Ricardo Trevizo, PSID: 2173424
+- Aqeel Somani
+- Santiago Reyes
+- Ricardo Trevizo
 
 ## Overview
 This repository compiles all of the work on the COSC 3337 Project, which includes our executed journals, our Group Project Proposal, and our final report, which shows our findings.
